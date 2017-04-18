@@ -1,3 +1,16 @@
     body{
       background-color: #ADD8E6;
     }
+
+    div.info{
+      background-color: #ADDAEE;
+      border: thin black;
+    }
+
+    iframe{
+      float: left;
+    }
+
+    h1{
+      float: right;
+    }
