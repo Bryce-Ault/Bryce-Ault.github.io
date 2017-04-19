@@ -7,10 +7,6 @@
       border: thin black;
     }
 
-    iframe{
-      float: left;
-    }
-
-    h1{
-      float: right;
-    }
+h1{
+  font-style: oblique;
+}
